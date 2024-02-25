@@ -1,0 +1,20 @@
+table{
+    border: 2px;
+    border-color: black;
+   
+
+}
+caption{
+    background-color: rgb(40, 120, 40);
+    color: white;
+}
+.names ,.science,.physics{
+    background-color: rgb(170, 243, 170);;
+    color:black;
+ 
+    
+}
+.maths,.english,.gk{
+    background-color: rgb(134, 240, 134);
+    color: black;
+}
